@@ -6,6 +6,10 @@ class Raccoon < Animal
     ######################
     # ADD YOUR CODE HERE #
     ######################
-  end
+    puts @name
+end
+    def speak
+    	puts "gnanana"
+  	end
 
 end
