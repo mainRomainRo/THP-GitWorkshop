@@ -13,3 +13,4 @@ puts "------------------------------"
 ratas = Raccoon.new("Ratatas", 10, 3)
 ratas.speak
 ratas.dance
+
