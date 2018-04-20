@@ -6,7 +6,7 @@ class Raccoon < Animal
     ######################
     # ADD YOUR CODE HERE #
     ######################
-    puts @name
+    puts "#{name} is jerking"
 end
     def speak
     	puts "gnanana"
