@@ -9,3 +9,7 @@ puts "-------------------------------"
 doggo = Dog.new("Doggo", 3, 35)
 doggo.be_a_good_boy
 doggo.fetch_ball
+puts "------------------------------"
+ratas = Raccoon.new("Ratatas", 10, 3)
+ratas.speak
+ratas.dance
